@@ -1,0 +1,17 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: cornflowerblue;
+    border-radius: 100px;
+    margin: auto;
+    animation: animation 4s infinite;
+}
+
+@keyframes animation {
+  100% {transform: rotate(360deg);}
+}
+p{
+    text-align: center;
+    position: relative;
+    top: 45%;
+}

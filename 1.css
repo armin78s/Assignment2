@@ -1,0 +1,16 @@
+button{
+    text-align: center;
+   border: 2px solid gray;
+   padding: 25px 30px;
+   font-weight: bold;
+   font-size: 25px;
+   background-color: sandybrown;
+
+}
+span{
+    font-size: 40px;
+    border:1px solid white;
+    padding: 10px 20px;
+    border-radius: 50px;
+    background-color: white;
+}
